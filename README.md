@@ -17,6 +17,7 @@ Grafana: Grafana open source is open source visualization and analytics software
 matter where they are stored.
 
 
+Google docs : https://docs.google.com/document/d/1iepapwvFUHA6kyLRu0swt2bYRVbRr1CXgIG5FzHnkqU/edit
 
 
 Architechture:
